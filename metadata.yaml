@@ -1,0 +1,31 @@
+_repo: Confession-de-MinuitRoman_10290
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duhamel, Georges
+    aliases:
+    - Thevenin, Denis
+    - Thévenin, Denis
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '1445'
+    url: http://www.gutenberg.org/2009/agents/1445
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Duhamel
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10290'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'Confession de Minuit
+
+  Roman'
+url: http://www.gutenberg.org/ebooks/10290
